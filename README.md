@@ -24,7 +24,7 @@ pip install -r requirements.txt
 ```
 5. Finally, run the program by running the following command:
 ```
-python dancer.py
+python3 main.py
 ```
 
 That's it! You should now be able to execute the code locally on your machine. If you have any issues, feel free to consult the README file or contact the repository owner for assistance.
