@@ -5,7 +5,7 @@ It responded with the following caveat, "As an AI language model, I don't have a
 
 ![chat gpt dancer drawing using python turtles](https://github.com/rainleander/chat-gpt-python-dancer/blob/main/chat-gpt-dancer-drawing.png)
 
-Then I asked it to "please write a blog post about this program" which is available via [TheRain.Dev](https://therain.dev/).
+Then I asked it to "please write a blog post about this program" which is available via [TheRain.Dev](https://therain.dev/get-your-groove-on-with-python-creating-a-dancing-turtle-with-turtle-graphics/).
 
 Finally, I prompted, "assuming the code is available via https://github.com/rainleander/chat-gpt-python-dancer/, please write instructions for executing this code locally"
 
