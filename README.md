@@ -3,7 +3,7 @@ I gave the OpenAI [chatGPT](https://chat.openai.com/chat) the following prompt: 
 
 It responded with the following caveat, "As an AI language model, I don't have a visual interface to draw a dancer. However, I can give you an example code to draw a dancer using Python's turtle graphics module. Here's an example code:" and the code in main.py.
 
-Then I asked it to write a full blog post which is available via [TheRain.Dev](https://therain.dev/).
+Then I asked it to "please write a blog post about this program" which is available via [TheRain.Dev](https://therain.dev/).
 
 Finally, I prompted, "assuming the code is available via https://github.com/rainleander/chat-gpt-python-dancer/, please write instructions for executing this code locally"
 
